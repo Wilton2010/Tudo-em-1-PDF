@@ -1,5 +1,6 @@
 <B> tudoem1pdf.exe </B>
 </br>
+</br>
 Este executavel foi desenvlvido em python e compilado para o windows com pyinstaller.
 </br>
 Seu uso é simples e sua finalidade é mesclar todos os arquivos pdf em um diretorio, não excluindo os arquivos originais.
